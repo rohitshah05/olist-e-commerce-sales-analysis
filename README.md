@@ -107,6 +107,6 @@ Business Intelligence
 Business Insight Generation
 👤 Author
 
-Rohit Shah
+Rohit lal
 
 GitHub: github.com/rohitshah05
