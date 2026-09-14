@@ -1,5 +1,6 @@
 
 📊 Olist E-Commerce Sales Analysis
+
 📌 Project Overview
 This project presents an interactive E-Commerce Sales Analysis Dashboard built using Microsoft Power BI.
 
@@ -17,6 +18,7 @@ Understand payment method distribution
 Track monthly revenue trends
 Analyze Average Order Value
 Analyze average delivery time
+
 📊 Key Performance Indicators
 Total Customers
 Total Orders
@@ -24,6 +26,7 @@ Total Revenue
 Total Sellers
 Average Order Value
 Average Delivery Days
+
 📈 Dashboard Visualizations
 Top 10 Customers
 Identifies the highest-value customers based on revenue.
@@ -61,6 +64,7 @@ Power Query
 Data Visualization
 Data Cleaning
 Data Transformation
+
 🔄 Project Workflow
 Raw Data
 ↓
