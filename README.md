@@ -62,7 +62,7 @@ The project includes SQL-based data analysis and an interactive Power BI dashboa
 
 ## 🖼️ Dashboard Preview
 
-![Olist E-Commerce Sales Dashboard](<img width="1324" height="733" alt="Olist E-Commerce Sales Dashboard" src="https://github.com/user-attachments/assets/e12c23ec-2bc2-4074-a077-789a184f9252" />)
+![Olist E-Commerce Sales Dashboard](<img width="1324" height="733" alt="Olist E-Commerce Sales Dashboard" src="https://github.com/user-attachments/assets/e12c23ec-2bc2-4074-a077-789a184f9252" />
 
 ## 📊 Power BI Dashboard File
 
@@ -88,12 +88,12 @@ olist-e-commerce-sales-analysis/
 ├── README.md
 ├── Olist-E-Commerce-Sales-Dashboard.png
 └── olist_ecommerce_analysis.sql
-
+```
 📂 Dataset
 
 Olist Brazilian E-Commerce Public Dataset
 
-Source: Kaggle – Olist Brazilian E-Commerce Dataset
+Source: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 🧠 Skills Demonstrated
 SQL Analysis
